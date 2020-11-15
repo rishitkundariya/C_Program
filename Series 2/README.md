@@ -12,17 +12,7 @@
 3 4 5<br>
 4 5<br>
 5 </li> <br>
-<li>
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;2 3 2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3 4 5 4 3<br>
-  &nbsp;&nbsp;
-4 5 6 7 6 5 4<br>
-5 6 7 8 9 8 7 6 5 </li> <br>
+
 <li> * * * * * * * *<br>
 *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<br>
 * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             *<br>
