@@ -17,7 +17,7 @@ Boundary Matrix: <br>
 <li> Implement a Stack using Link list and perform Stack push and pop operation. </li>
 <li> Implement a Stack using Array and perform Stack push and pop operation. </li>
 <li> Write a program to remove duplicated from the linked list. </li>
-<li> Perform sorting of stack using temporary stack. </li>
+
 <li> Write a program to append N Nodes to front in the Linked List.</li>
  <li> Shift array elements right by 1 position.</li>
 </ol></i></h3>
