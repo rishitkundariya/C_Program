@@ -1,8 +1,7 @@
 <h1> C Program Practice Series - 5 </h1>
 <h3><i>
 <ol>
-<li> Write a program to print the sum of boundary elements of a matrix.<br>
-E.g.<br>
+<li> Write a program to print the sum of boundary elements of a matrix. E.g
 Matrix:<br>
 1 2 3<br>
 4 5 6<br>
