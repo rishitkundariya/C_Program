@@ -12,9 +12,9 @@ Boundary Matrix: <br>
  7 8 9
 </li>
 <li> Write a program to display a Linked List in Reverse. </li> 
-<li> Implement a Queue using Linked list and perform Queue insertion. </li> 
+<li> Implement a Queue using Link list and perform Queue insertion. </li> 
 <li> Implement a Queue using Array and perform Queue insertion. </li>
-<li> Implement a Stack using Linked list and perform Stack push and pop operation. </li>
+<li> Implement a Stack using Link list and perform Stack push and pop operation. </li>
 <li> Implement a Stack using Array and perform Stack push and pop operation. </li>
 <li> Write a program to remove duplicated from the linked list. </li>
 <li> Perform sorting of stack using temporary stack. </li>
