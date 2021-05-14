@@ -20,4 +20,5 @@ Boundary Matrix: <br>
 
 <li> Write a program to append N Nodes to front in the Linked List.</li>
  <li> Shift array elements right by 1 position.</li>
+  <li> for given array of n element. Ex n=5 array=[x1,x2,x3,x4,x5] make it like array=[x1,x1+x2,x1+x2+x3,x1+x2+x3+x4,x1+x2+x3+x4+x5] and print it.</li>
 </ol></i></h3>
