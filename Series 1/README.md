@@ -11,4 +11,5 @@
 <li> Find GCD & LCM of given two numbers. </li>
 <li> Find sum of first n Fibonacci numbers. </li>
 <li> Print Hello world without use of Semicolon. </li>
+<li> Exchange the value of 2 valiable without use of third variable. </li>
 </ol></i></h3>
