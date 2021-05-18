@@ -10,4 +10,5 @@
 <li> Find NCR Factorial of a given number. </li>
 <li> Find GCD & LCM of given two numbers. </li>
 <li> Find sum of first n Fibonacci numbers. </li>
+<li> Print Hello world without use of Semicolon. </li>
 </ol></i></h3>
